@@ -1,2 +1,7 @@
 # ffmpeg6.0-doc
-Here im trying to write good doc for ppl who want to learn about media
+Hello everyone
+
+in the examples i tell you how to use ffmpeg6.0
+
+for older versions :
+https://github.com/leandromoreira/ffmpeg-libav-tutorial#learn-ffmpeg-libav-the-hard-way
