@@ -1,9 +1,9 @@
 # ffmpeg6.0-doc
 Hello everyone
 
-I'll be happy if I know my mistakes so if you see any problem in my codes , feel free to tell me
-
 in the examples i tell you how to use ffmpeg6.0
+
+I'll be happy if I know my mistakes so if you see any problem in my codes , feel free to tell me
 
 for older versions :
 https://github.com/leandromoreira/ffmpeg-libav-tutorial#learn-ffmpeg-libav-the-hard-way
