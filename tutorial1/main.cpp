@@ -1,5 +1,7 @@
 /*
- * Hello so basically ffmpeg 6.0 , doesnt really have good doc for libav so lets
+ * Hello so basically ffmpeg 6.0 , doesnt really have good doc for libav or i didnt find it so lets
+ * try to write one , in tutorial 1 we going to open a file , find its video stream , decode it to packets
+ * and then save it as .pgm file
  * try to write one , thanks to ppl who gonna help me in this path
  * so just follow the main function and read the comments
  *
