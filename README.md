@@ -2,6 +2,7 @@
 Hello everyone
 
 in the examples i tell you how to use ffmpeg6.0
+more tutorials will be added , this project is still ongoing
 
 I'll be happy if I know my mistakes so if you see any problem in my codes , feel free to tell me
 
