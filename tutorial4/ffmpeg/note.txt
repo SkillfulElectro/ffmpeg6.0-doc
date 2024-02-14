@@ -1,0 +1,1 @@
+add ffmpeg library here , i could not do it because it was more than 40mg
