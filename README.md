@@ -12,8 +12,7 @@ https://jumpshare.com/viewer/pgm
 online ppm viewer :
 https://jumpshare.com/viewer/ppm
 
-I still suggest you to read this which is for older versions for understanding more about audio and videos
-for older versions :
+I still suggest you to read this which is for older versions for understanding more about audio and videos:
 https://github.com/leandromoreira/ffmpeg-libav-tutorial#learn-ffmpeg-libav-the-hard-way
 
 Good to read :
